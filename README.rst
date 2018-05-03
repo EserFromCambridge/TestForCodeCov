@@ -3,6 +3,6 @@
 
 .. contents:: Topics
 
-.. image:: https://codecov.io/gh/codecov/PythonExamples/branch/master/graph/badge.svg
-  :target: https://codecov.io/gh/codecov/PythonExamples
+.. image:: https://codecov.io/gh/codecov/TestForCodeCov/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/codecov/TestForCodeCov
 

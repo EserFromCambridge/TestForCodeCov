@@ -1,0 +1,9 @@
+language: python
+python: 
+ - 3.6
+install:
+ - pip install codecov
+script:
+ - coverage run tests/teststack.py
+after_success:
+ - codecov
